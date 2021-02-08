@@ -43,3 +43,6 @@ See [naughtsandcrosses.py](https://github.com/pbsinclair42/MCTS/blob/master/naug
 ## Collaborating
 
 Feel free to raise a new issue for any new feature or bug you've spotted. Pull requests are also welcomed if you're interested in directly improving the project.
+
+##MCTS Travel
+use mcts to build a travel agency AI for Tokyo region
